@@ -1,6 +1,9 @@
 # 🚀 Asteroid Game
 
 A simple and exciting 2D asteroid shooting game built using **Python** and **Pygame**. Control your spaceship, blast asteroids, and survive across levels with increasing difficulty. Aim to beat the high score!
+![image](https://github.com/user-attachments/assets/ab595101-e77f-412f-a6e2-a778585a229e)
+![image](https://github.com/user-attachments/assets/310bf1f7-db2b-4b35-bb8c-79f2f0176b90)
+
 
 ---
 
