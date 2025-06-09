@@ -5,7 +5,10 @@ A simple and exciting 2D asteroid shooting game built using **Python** and **Pyg
 
 
 
-https://github.com/user-attachments/assets/06e446ee-14cd-4438-9fbd-30cf73eeca82
+
+
+https://github.com/user-attachments/assets/224b4e2a-509d-41ce-9780-893848adfcb5
+
 
 
 
