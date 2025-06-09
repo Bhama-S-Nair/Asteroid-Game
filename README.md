@@ -43,7 +43,7 @@ pip install pygame
 ### 📁 Clone or Download the Repository
 
 ```bash
-git clone https://github.com/yourusername/asteroid-game.git
+git clone https://github.com/Bhama-S-Nair/Asteroid-Game.git
 cd asteroid-game
 ```
 
